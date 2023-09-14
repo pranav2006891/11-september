@@ -65,6 +65,10 @@ int main()
 			printf("the required month is %d \n",b);
 			printf("the required year is %d \n",c);
 		}
+		else
+		{
+			printf("the required day does not exist")
+		}
 	}
 	else
 	{
