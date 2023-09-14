@@ -67,7 +67,7 @@ int main()
 		}
 		else
 		{
-			printf("the required day does not exist")
+			printf("the required day does not exist");
 		}
 	}
 	else
